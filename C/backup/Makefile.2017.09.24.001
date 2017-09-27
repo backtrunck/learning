@@ -1,9 +1,0 @@
-#.SECONDARY:
-
-%:%.o
-	gcc -o $@ $< 
-%.o:$(PWD)/sources/%.c
-	gcc -c -o $(@) $(PWD)/sources/$*.c
-
-
-	
