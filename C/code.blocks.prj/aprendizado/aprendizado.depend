@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503230911 source:/home/lcreina/Documentos/programacao/C/code.blocks.prj/aprendizado/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
